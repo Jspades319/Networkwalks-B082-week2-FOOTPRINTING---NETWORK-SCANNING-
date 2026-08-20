@@ -61,8 +61,6 @@ The process included the following steps:
 
 1. Reviewing local network settings using ipconfig in 
 
-   - Windows 
-
 2. Identifying the subnet range used by the system 
 
 3. Entering the subnet into Zenmap 
@@ -79,13 +77,13 @@ Host values shown during the exercise included:
 
 10.0.0.1 
 
-- 10.0.0.2 
+10.0.0.2 
 
 10.0.0.3 
 
-# 10.0.0.99 
+10.0.0.99 
 
-5. Risk Analysis / Impact 
+# 5. Risk Analysis / Impact 
 
 |Finding|Evidence /<br>Observation|Potential<br>Impact|Risk Level|
 |---|---|---|---|
@@ -181,7 +179,11 @@ This exercise emphasized how initial information gathering and host discovery pr
 
 Prepared by: Jevaughn Stewart 
 
+
+LinkedIn: "https://linkedin.com/in/jevaughnstewart"
+
 Program: Cybersecurity Program at Networkwalks Week: 02 
 
 Report Type: Practical Lab Documentation 
+
 
