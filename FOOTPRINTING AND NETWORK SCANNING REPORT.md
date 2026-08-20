@@ -148,40 +148,12 @@ Zenmap scanning on the local network found several active devices. This could in
 
 - Ensure all testing remains authorized and in-scope. 
 
+# 7. Conclusion
+This exercise emphasized how initial information gathering and host discovery provides valuable situational awareness before deeper testing. Findings are informational; further authorized assessment would be required to validate vulnerabilities.
 
 
-<!-- Start of picture text -->
-@<br>Simeme *f-|: 4 \[ ov a ars lace<br>7m £ 2<br>Home<br>Session Actions Edit View Help<br>File System Registry Domain ID: 2452319255_DOMAIN_COM-VRSN<br>’ |<br>HOMea CEMACB ett x<br><!-- End of picture text -->
+# 8. Evidence collected
 
-
-
-<!-- Start of picture text -->
-S\iea@eP I~ 4 ; Oo” # &@ ac =<br>ry<br>Home:<br>File System<br>7 rash \ati@tal<br>Session Actions Edit View Help<br>P Country(UN RedirectLocation(ht™ HTTPServer, t t Apache,HttponlyCookies UncommonHeadI<br>ers t-by, ;<br>K) Apache, Bootstrap) Cookies!<br>Country Email[ inf twork Frame, Googl<br>e-Tag-Manager,JQuery:HTMLS,Open-Graph-ProtocolHTTPServer’MetaGenerator(w HttponlyScript We t), IP.<br>ders,; WordPress, je Title e UncommonHea |<br>TrPServer Email(i IP K) k Apache,dqueryFrame,BootstrapGoogle-Tag-Manager,NetaGeneratorCountry HTMLS,(W H<br>M Open-Graph-Protocol Ser<br>ipt( ac + t t Title t<br>UncommonHeaders:<br>x WordPress<br>|<br>BOnaCBOTACB etx<br><!-- End of picture text -->
-
-
-
-<!-- Start of picture text -->
-Sina P *fl- 4 y kh o@# @ &@ ac ><br>ry<br>Home<br>File System<br>Trash kali@kali: ~<br>Session Actions Edit View Help<br>]<br>HOwro eats @Btetx<br><!-- End of picture text -->
-
-
-
-<!-- Start of picture text -->
-@<br>Siem eo ; Oo a @ ace<br>ft<br>Home<br>File System<br>Trash a<br>Session Actions Edit View Help<br>permissions-policy tate tal : rk<br>Link: <htt : . i LI<br>set-cookie t=b7F 11428 si at<br>referrer-policy f |<br>x-endurance-cache-level<br>x-nginx-cache: ¥ €<br>content-type: text/ht ‘<br>date: w “<br>server<br>i |<br>BOrOeeOA @B etx<br><!-- End of picture text -->
-
-
-
-<!-- Start of picture text -->
-S\@ ee of ‘ ; oOo” # @ acc<br>f<br>Home<br>File System<br>me lali@tali:-<br>Session Actions Edit View Help<br>/ \<br>(| Woof! )<br>\ /<br>The Web Application Firewall Fingerprinting Toolkit<br>i<br>HONG REOAA@B etx<br><!-- End of picture text -->
-
-
-
-<!-- Start of picture text -->
-Sie P of slIFleo 2 0 ® a a2 sco<br>OS Host . 4 = ta rics<br>paeons2 [22:39tarting -040)Nnap 7.99 ( [AEWZRENEERS) ot FCETET tionwa t<br>Host i ip (0.0007: atency om<br>Host is up<br>HomieaeSrts @Brettx<br><!-- End of picture text -->
-
-
-
-<!-- Start of picture text -->
-Sie P of 4 rs owe srplacLe<br>1S Host o = i = B P<br>Fisheye t fact - + f 0 = +<br>HomeeaeSts @Bettx<br><!-- End of picture text -->
 
 # 9. Report Information 
 
