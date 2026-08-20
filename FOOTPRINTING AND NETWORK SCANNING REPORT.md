@@ -154,6 +154,7 @@ This exercise emphasized how initial information gathering and host discovery pr
 
 # 8. Evidence collected
 
+! [Alt Text] 
 
 # 9. Report Information 
 
