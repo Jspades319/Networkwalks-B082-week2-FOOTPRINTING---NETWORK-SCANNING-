@@ -154,7 +154,28 @@ This exercise emphasized how initial information gathering and host discovery pr
 
 # 8. Evidence collected
 
-! [Alt Text] 
+<img width="1150" height="830" alt="Whois" src="https://github.com/user-attachments/assets/1384918c-1c66-4e5b-a09c-59089722a56b" />
+
+
+<img width="1150" height="830" alt="Whatweb" src="https://github.com/user-attachments/assets/9ff2b5cc-0c36-4f8c-b72e-51bfb2578f52" />
+
+<img width="1150" height="830" alt="Nslookup" src="https://github.com/user-attachments/assets/00904762-d569-4ab3-82bc-65b58b387ce7" />
+
+<img width="1150" height="830" alt="Curl Query" src="https://github.com/user-attachments/assets/84d923d5-fb16-48e1-a4d0-4ffa5e48a2a4" />
+
+<img width="1150" height="830" alt="Wafw00f" src="https://github.com/user-attachments/assets/e64218e0-679a-42a7-b887-ef44fcfea84c" />
+
+
+<img width="1150" height="830" alt="Zenmap_scan" src="https://github.com/user-attachments/assets/50f1ef94-b354-4e77-9919-348403092bff" />
+
+<img width="1150" height="830" alt="Zenmap_Topography" src="https://github.com/user-attachments/assets/400416e4-e823-4414-b4b4-dc2f8a746ca0" />
+
+
+
+
+
+
+
 
 # 9. Report Information 
 
